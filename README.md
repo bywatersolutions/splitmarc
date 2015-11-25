@@ -10,3 +10,7 @@ Usage:
 
 `FILE` is a marcxml file, and must have the extension `.marcxml`.
 
+## Dependencies
+
+* `yaz-marcdump`
+* `xpath`
